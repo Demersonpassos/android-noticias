@@ -28,7 +28,7 @@ body{
 
 
 main{
-    background-color:var(--cor2);
+    background-color:var(--cor0);
     padding: 24px;
     box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.623);
     border-radius: 0px 0px 10px 10px;
@@ -225,4 +225,8 @@ div ul{
 footer{
     width: 100%;
     padding: 20px 0;
+}
+picture .dandroid{
+    width: 100%;    
+
 }
