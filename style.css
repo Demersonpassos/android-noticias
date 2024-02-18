@@ -119,7 +119,7 @@ header{
     border: 0px solid black;
     outline: none;
     width: auto; 
-    padding: 20px 0;  
+    padding: 20px 0px 0px 0px;  
 }
 div{
     padding: 10px;
@@ -171,7 +171,7 @@ a {
 }
 
 p> a > strong:hover{
-    color:var(--cor2);
+    color:var(--cor3);
     
     
 }
@@ -224,5 +224,5 @@ div ul{
 }  
 footer{
     width: 100%;
-    padding: 20px 0;
+    padding: 20px 0px 0px 0px;
 }
